@@ -2,13 +2,6 @@
 - 🌱 I’m currently learning Android Development
 - 📫 How to reach me silwalpramod99@gmail.com
 
-<!---
-pramod980/pramod980 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pramod980&label=Profile%20views&color=0e75b6&style=flat" alt="pramod980" /> </p>
 
 <h3 align="left">Connect with me:</h3>
