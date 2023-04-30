@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pramod Silwal
-- 🌱 I’m currently learning Android Development
+- 🌱 I’m currently learning Flutter Development
 - 📫 How to reach me silwalpramod99@gmail.com
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pramod980&label=Profile%20views&color=0e75b6&style=flat" alt="pramod980" /> </p>
